@@ -53,7 +53,7 @@ The pipeline includes:
 Clone the repository:
 
 ```bash
-git clone https://github.com/AnastasiiaHorobets/project.git
+git clone https://github.com/AnastasiiaHorobets/nyc-taxi-project.git
 cd nyc-taxi-project
 ```
 
