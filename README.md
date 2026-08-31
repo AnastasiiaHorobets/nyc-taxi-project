@@ -54,7 +54,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/AnastasiiaHorobets/project.git
-cd project
+cd nyc-taxi-project
 ```
 
 Install dependencies:
